@@ -19,11 +19,13 @@ Glossary
     key
         A data item that is *mapped to* a value in a dictionary. Keys are used
         to look up values in a dictionary.
+        (ie. {'apples':3} 'apples' is considered a key)
 
     key-value pair
         One of the pairs of items in a dictionary. Values are looked up in a
         dictionary by key.
-        
+        (ie. {'apples':3, 'oranges':5}  'apples':3 is one key-value pair and 'oranges':5 is the
+        other key value pair)
     mapping type
         A mapping type is a data type comprised of a collection of keys and
         associated values. Python's only built-in mapping type is the
